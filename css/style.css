@@ -18,8 +18,13 @@ header {
   background: black;
   border: 2px solid white;
   color: grey;
+  padding: 10px 5px;
 }
 
 header h1 {
   font-family: 'Montserrat', sans-serif;
+}
+
+header p {
+  font-family: 'Open Sans', sans-serif;
 }
