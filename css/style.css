@@ -11,6 +11,7 @@ body {
   max-width: 320px;
   margin: auto;
   background: ;
+  font-family: 'Open Sans', sans-serif;
 }
 
 header {
@@ -30,6 +31,15 @@ header span {
   color: #33ff99;
 }
 
-header p {
-  font-family: 'Open Sans', sans-serif;
+div {
+  background-color: #33ff99;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif; 
+  color: black;
+}
+
+article {
+  background-color: white;
 }
