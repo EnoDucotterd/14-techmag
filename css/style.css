@@ -10,12 +10,12 @@ html {
 body {
   max-width: 320px;
   margin: auto;
-  background: black;
+  background: ;
 }
 
 header {
   background-image: url(file:///Users/enoducotterd/Sites/14-techmag/14-techmag-ressources/web/code.jpg);
-  background: black;
+  background: ;
   border: 2px solid white;
   color: grey;
   padding: 10px 5px;
@@ -23,6 +23,7 @@ header {
 
 header h1 {
   font-family: 'Montserrat', sans-serif;
+  color: white;
 }
 
 header p {
