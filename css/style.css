@@ -14,21 +14,21 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-header {
-  background-image: url(file:///Users/enoducotterd/Sites/14-techmag/14-techmag-ressources/code.jpg);
-  background: ;
+.site-header {
+  background-image: url(../img/code.jpg);
   border: 2px solid white;
   color: grey;
   padding: 10px 5px;
 }
 
-header h1 {
-  font-family: 'Montserrat', sans-serif; 
-  color: white;
+.site-header em {
+  font-weight: lighter;
+  color: #33ff99;
 }
 
-header span {
-  color: #33ff99;
+.site-header h1 {
+  font-family: 'Montserrat', sans-serif; 
+  color: white;
 }
 
 div {
@@ -42,4 +42,21 @@ h1 {
 
 article {
   background-color: white;
+}
+
+header p {
+  color: #cccccc;
+}
+
+.auteur {
+  color: #33ff99;
+}
+
+.date {
+  color: black;
+}
+
+footer {
+  color: white;
+  border: 2px solid #33ff99;
 }
