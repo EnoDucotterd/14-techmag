@@ -18,7 +18,8 @@ body {
   background-image: url(../img/code.jpg);
   border: 2px solid white;
   color: grey;
-  padding: 10px 5px;
+  padding: 25px 30px;
+  margin-bottom: 20px;
 }
 
 .site-header em {
