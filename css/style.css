@@ -26,6 +26,10 @@ body {
   color: #33ff99;
 }
 
+.chapeau {
+  padding: 30px;
+}
+
 .site-header h1 {
   font-family: 'Montserrat', sans-serif; 
   color: white;
@@ -51,6 +55,13 @@ article figure {
   box-shadow: 2px 5px 5px;
   width: 100%;
   margin: auto;
+  margin-bottom: 37px;
+}
+
+article h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-weight: bold;
 }
 
 header p {
@@ -72,10 +83,14 @@ footer {
 }
 
 .more-content {
-  color: white;
   background-color: black;
+  padding: 8 15;
+  margin-top: 34px;
+}
+
+.more-content a {
+  color: white;
   font-family: 'Open Sans', sans-serif;
   text-decoration: none;
   font-weight: bold;
-  padding: 8 15;
 }
