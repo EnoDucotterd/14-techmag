@@ -12,7 +12,6 @@ body {
   margin: auto;
   background: black;
   font-family: 'Open Sans', sans-serif;
-  margin: 19px 27px ;
 }
 
 .site-header {
@@ -54,16 +53,25 @@ article {
 }
 
 article figure {
-  box-shadow: 2px 5px 5px;
+  box-shadow: 2px 2px 2px;
   width: 100%;
   margin: auto;
   margin-bottom: 37px;
+  font-size: small;
+}
+
+figcaption {
+  padding: 9px;
 }
 
 article h1 {
   font-family: 'Montserrat', sans-serif;
   color: black;
   font-weight: bold;
+}
+
+article img {
+  box-sizing:content-box
 }
 
 header p {
@@ -90,8 +98,8 @@ footer {
 
 .more-content {
   background-color: black;
-  padding: 8 15;
-  margin-top: 34px;
+  padding: 8px 15px;
+  margin-top: 22px;
 }
 
 .more-content a {
