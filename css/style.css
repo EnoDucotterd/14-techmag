@@ -12,6 +12,7 @@ body {
   margin: auto;
   background: black;
   font-family: 'Open Sans', sans-serif;
+  margin: 19px 27px ;
 }
 
 .site-header {
@@ -75,6 +76,10 @@ header p {
 
 .date {
   color: black;
+}
+
+.issue {
+  font-size: small;
 }
 
 footer {
