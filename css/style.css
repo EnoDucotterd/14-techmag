@@ -3,6 +3,9 @@
   font-family: 'Open Sans', sans-serif; 400/400it/700/700it
 */
 
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif; */
+
 html {
   scroll-behavior: smooth;
 }
@@ -40,8 +43,12 @@ div {
   background-color: #33ff99;
 }
 
+div h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
 h1 {
-  font-family: 'Montserrat', sans-serif; 
+  font-family: 'Montserrat', sans-serif;
   color: black;
 }
 
